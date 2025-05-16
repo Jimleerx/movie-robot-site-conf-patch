@@ -2,7 +2,7 @@ id: ourbits
 name: 我堡
 domain: https://ourbits.club/
 encoding: UTF-8
-config_url: https://github.com/Jimleerx/mbot-site-conf/blob/main/ourbits.yml
+config_url: https://g.2ha.me/https://raw.githubusercontent.com/Jimleerx/movie-robot-site-conf-patch/main/ourbits.yml
 
 login:
   test:
