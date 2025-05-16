@@ -2,7 +2,7 @@ id: KamePT
 name: KamePT
 domain: https://kamept.com/
 encoding: UTF-8
-config_url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jimleerx/mbot-site-conf/main/kamept.yml
+config_url: https://g.2ha.me/https://raw.githubusercontent.com/Jimleerx/movie-robot-site-conf-patch/main/kamept.yml
 
 login:
   test:
